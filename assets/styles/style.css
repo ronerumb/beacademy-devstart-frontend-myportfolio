@@ -120,3 +120,94 @@ align-items: center;
 
 
 }
+
+.sucess{
+  height:33rem;
+  
+}
+
+.sucess-label{
+ margin-top: 1.5rem ;
+ border-radius: 40rem;
+ width: 8.0rem;
+ padding:1.0rem;
+  background-color: white;
+  color:black;
+}
+
+.cards{
+  display:flex;
+  
+
+}
+
+
+.sucess-label-h3{
+  color:white;
+  font-size:6.0rem;
+  margin-top:2.0rem;
+
+}
+
+.sucess-label-h3 spam{
+  color:red; 
+
+}
+.sucess-title{
+  color:black;
+  width:25rem;
+  height:25rem;
+  background-color:white;
+  margin-left: 4.0rem;
+  padding:4.0rem;
+
+}
+
+.sucess-title h3{
+  font-size:6.0rem;
+
+
+}
+
+.sucess-title p{
+  margin-top:4.0rem;
+  font-size:3.0rem;
+
+}
+
+.qs .container{
+  width:100%;
+  height:40rem;
+  background-color:rgba(28, 26, 26, 0.44);
+  display: flex;
+}
+
+
+.qs-legend{
+  height:30rem;
+  width:70rem;
+  color:white;
+  padding:5.0rem;
+}
+
+.qs-legend h3{
+  font-size: 7.0rem;
+}
+
+.qs-legend p{
+  font-size: 1.8rem;
+}
+
+.qs-fig{
+  margin-top:1.0rem; 
+  display:flex;
+}
+
+.qs-fig img{
+  margin-left: 1.0rem;
+}
+
+.qs-img img{
+  width: 40rem;
+  padding:1.0rem;
+}
