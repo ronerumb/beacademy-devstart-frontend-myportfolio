@@ -1,5 +1,6 @@
 /* My variable colors */
 
+
 :root {
   --primary-color: #dcf64b;
   --second-color: #a0b435;
@@ -10,11 +11,13 @@
 }
 
 
+
 .container {
   width: 100%;
   max-width: 1246px; 
   margin: 0 auto;
   padding: 0rem 1.5rem;
+  font-family: 'Montserrat', sans-serif;
 }
 
 

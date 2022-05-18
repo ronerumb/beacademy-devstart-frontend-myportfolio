@@ -263,8 +263,8 @@ align-items: center;
 
 .contact{
   width:100%;
-  height:55rem;
-  background-color:red;
+  height:45rem;
+  
   
 }
 
@@ -275,8 +275,63 @@ align-items: center;
 .contact-title{
   display: flex;  
   align-items:center;  
-  height: 55rem;
+  height: 45rem;
   width: 50%;
   font-size: 7.0rem;
+  color:white;
+}
+
+.contact-title .sucess-label{
+font-size:1.0rem;
+text-align: center;
+}
+
+.contact-body{
+  width: 50%;
+}
+
+
+.contact-body form {
+  display: flex;
+  flex-direction: column;
+ 
+  width: 100%;
+  
+ 
+}
+
+.contact-body form input{
+  margin-bottom:3.0rem;
+  width: 100%;
+  border-radius: 10px;
+  background-color:rgba(28, 26, 26, 0.44);
+  padding:2.0rem;
+
+}
+
+.contact-body form textarea{
+  background-color:rgba(28, 26, 26, 0.44);
+}
+
+.contact-body form input:nth-child(1){
+  margin-top:10.0rem;
+ 
+
+}
+
+footer{
+  width:100%;
+  height:8.0rem;
+  background-color:rgba(28, 26, 26, 0.44);
+}
+
+
+footer .container{
+  width:100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size:2.0rem;
+  padding:2.0rem;
   color:white;
 }
